@@ -1,0 +1,588 @@
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\OneDrive\Desktop\my practice\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll
+C:\Users\Harmony Tess Chizoba\Desktop\CHIZOBA FILES\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Twilio.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Twilio.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\USER\Documents\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Twilio.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\USER\Desktop\SurveyApp(Updated)\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Twilio.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.exe
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.deps.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\Twilio.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Application.pdb
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Dal.pdb
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\bin\Debug\net6.0\SurveyApp.Domain.pdb
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.sourcelink.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.SurveyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SurveyApp.Api.props
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\scopedcss\bundle\SurveyApp.Api.styles.css
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\refint\SurveyApp.Api.dll
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.pdb
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\SurveyApp.Api.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\ConclaseSurveyAppRepo\acatech4-backend\SurveyApp\SurveyApp.Api\obj\Debug\net6.0\ref\SurveyApp.Api.dll

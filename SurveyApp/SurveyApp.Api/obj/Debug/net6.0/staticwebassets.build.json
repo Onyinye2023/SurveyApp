@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HQutS5xQsA40lM6CX68FSyLGIFSd4dB4GYv7PlYnNiA=",
+  "Source": "SurveyApp.Api",
+  "BasePath": "_content/SurveyApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
